@@ -1,7 +1,7 @@
 ---
 title: Introduction to preprints
 teaching: 10
-exercises: 20
+exercises: 26
 duration: null
 summary: An introduction to preprints, highlighting their benefits and
   addressing concerns.
